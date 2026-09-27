@@ -1,6 +1,6 @@
 # CRUD de Livros da Bíblia com Node.js
 
-API simples para cadastrar e gerenciar livros da Bíblia, usando Node.js, Express e Mongoose.
+Atividade prática de sala: API simples para cadastrar e gerenciar livros da Bíblia, usando Node.js, Express e Mongoose.
 
 ## Estrutura
 
